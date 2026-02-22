@@ -1,0 +1,2 @@
+# Decrypt this hex using XOR key 0x5A
+hex_data = '190e1c091711146221226a2805366a3d6b39052a286a3d286e37376b343d27'
